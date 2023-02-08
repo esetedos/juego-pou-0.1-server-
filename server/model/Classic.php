@@ -10,7 +10,7 @@ class Classic extends ModelBase
         parent::__construct();
         
         //Inicializamos el nombre de la tabla
-        $this->table_name = 'classics';
+        $this->table_name = 'saltarines';
     }
 }
 
